@@ -5,18 +5,19 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 section{
-    height: 700px;
+    height: 600px;
+    margin-bottom: 100px;
 }
 h1{
     font-size: 45px;
+    font-weight: 300;
 }
 .text-color{
     color: tomato;
 }
 .hero-section{
     background-image: url("images/header-bg.png");
-    background-repeat: no-repeat;
-    
+    background-repeat: no-repeat;  
 }
 .half-width{
     width: 40%;
@@ -37,4 +38,8 @@ h1{
     padding: 10px 20px;
     border-radius: 5px;
     margin-top: 10px;
+}
+.bio-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
 }
