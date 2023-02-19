@@ -43,3 +43,22 @@ h1{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
 }
+.work-section{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.work-text{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.col-3{
+    width: 25%;
+    display: inline-block;
+    margin-left: 6%;
+    
+}
+.col-3 img{
+    width: 100%;
+   
+}
