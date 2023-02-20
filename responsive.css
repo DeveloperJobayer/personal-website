@@ -1,0 +1,42 @@
+@media only screen and (max-width:1200px ){
+    .text-color{
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .client-text{
+        text-align: center;
+    }
+    .work-text{
+        text-align: center;
+    }
+    }
+    
+    
+    
+    @media only screen and (max-width: 992px ){
+        .text-color{
+            font-size: 30px;
+        }
+        section{
+            height: 500px !important;
+            margin-bottom: 0 !important;
+        }
+        .work-text{
+            text-align: center;
+        } 
+    }
+    
+    
+    
+    @media only screen and (max-width: 768px ){
+        .text-color{
+            font-size: 25px;
+        }
+        section{
+            height: 500px !important;
+            margin-bottom: 0 !important;
+        }
+        /* .work-text{
+            text-align: center;
+        } */
+    }
